@@ -27,7 +27,7 @@ class Solution {
         
         
         while(end!=null){
-            System.out.println(curr.val+" "+end.val);
+            
          sum=Math.max(sum,curr.val+end.val);
             curr=curr.next;
             end=end.next;
