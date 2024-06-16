@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0502-ipo) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
@@ -27,8 +28,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0502-ipo](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0502-ipo) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
+| [0502-ipo](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0502-ipo) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0502-ipo) |
