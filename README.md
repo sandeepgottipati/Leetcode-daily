@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
 |  |
@@ -68,5 +69,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
