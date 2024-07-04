@@ -83,4 +83,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
