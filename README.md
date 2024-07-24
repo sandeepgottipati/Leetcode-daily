@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1333-sort-the-jumbled-numbers](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1333-sort-the-jumbled-numbers](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
