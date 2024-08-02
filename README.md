@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2727-number-of-senior-citizens](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
 | ------- |
@@ -118,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
