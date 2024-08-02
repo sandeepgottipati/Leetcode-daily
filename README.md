@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -113,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
