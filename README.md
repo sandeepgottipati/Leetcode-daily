@@ -129,9 +129,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String
 |  |
 | ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2727-number-of-senior-citizens](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeepgottipati/Leetcode-daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
